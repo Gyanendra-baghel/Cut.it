@@ -1,0 +1,19 @@
+{
+    "name": "gyanendra-baghel/ryxo",
+    "description": "This is tthe usable tempalte of ryxo framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gyanendra Baghel",
+            "email": "gyanendrabaghel633@gmail.com"
+        }
+    ],
+    "require": {
+        "ryxo/framework": "^0.0.1"
+    }
+}
